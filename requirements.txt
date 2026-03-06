@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+httpx
+pandas
+numpy
+spicy
+sklearn
+pickle
